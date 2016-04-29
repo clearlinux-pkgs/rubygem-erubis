@@ -4,7 +4,7 @@
 #
 Name     : rubygem-erubis
 Version  : 2.7.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/erubis-2.7.0.gem
 Source0  : https://rubygems.org/downloads/erubis-2.7.0.gem
 Summary  : No detailed summary available
